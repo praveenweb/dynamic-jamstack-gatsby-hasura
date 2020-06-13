@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
-    "apollo-link-http": "1.5.16",
+    "apollo-link-http": "1.5.17",
     "gatsby": "2.13.73",
     "gatsby-image": "2.2.10",
     "gatsby-plugin-manifest": "2.2.6",
