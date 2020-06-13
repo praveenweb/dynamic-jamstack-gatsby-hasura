@@ -13,17 +13,17 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
   },
   "dependencies": {
-    "@apollo/react-hooks": "^3.0.1",
-    "@reach/router": "^1.2.1",
-    "apollo-boost": "^0.4.4",
-    "auth0-js": "^9.13.2",
-    "gatsby": "^2.5.2",
-    "gatsby-source-graphql": "^2.1.17",
-    "react": "^16.8.4",
-    "react-dom": "^16.8.4"
+    "@apollo/react-hooks": "3.1.2",
+    "@reach/router": "1.2.1",
+    "apollo-boost": "0.4.4",
+    "auth0-js": "^9.10.1",
+    "gatsby": "2.13.41",
+    "gatsby-source-graphql": "2.1.17",
+    "react": "16.8.4",
+    "react-dom": "16.8.4"
   },
   "devDependencies": {
-    "prettier": "^1.16.4"
+    "prettier": "1.16.4"
   },
   "repository": {
     "type": "git",
