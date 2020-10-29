@@ -19,8 +19,8 @@
     "auth0-js": "9.13.2",
     "gatsby": "2.13.41",
     "gatsby-source-graphql": "2.1.17",
-    "react": "16.8.4",
-    "react-dom": "16.8.4"
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
   },
   "devDependencies": {
     "prettier": "1.16.4"
