@@ -16,7 +16,7 @@
     "@apollo/react-hooks": "3.1.2",
     "@reach/router": "1.2.1",
     "apollo-boost": "0.4.4",
-    "auth0-js": "9.13.2",
+    "auth0-js": "9.14.0",
     "gatsby": "2.13.41",
     "gatsby-source-graphql": "2.1.17",
     "react": "16.8.4",
