@@ -6,7 +6,7 @@
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
     "apollo-link-http": "1.5.16",
-    "gatsby": "2.13.73",
+    "gatsby": "2.32.13",
     "gatsby-image": "2.2.10",
     "gatsby-plugin-manifest": "2.2.6",
     "gatsby-plugin-offline": "2.2.7",
